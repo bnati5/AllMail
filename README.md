@@ -37,11 +37,11 @@ Overview:
     "subject": "me",
     "attachments": [{
            "base64": "iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAYAAAAeP4ixAAAARElEQVR42u3PMREAAAgEIE1u9DeDqwcN6EqmHmgRERERERERERERERERERERERERERERERERERERERERERERERERkYsFOoB8nTpF298AAAAASUVORK5CYII=",
-           "filename": "test.png"
+           "filename": "example.png"
      },
      {
            "base64": "iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAYAAAAeP4ixAAAARElEQVR42u3PMREAAAgEIE1u9DeDqwcN6EqmHmgRERERERERERERERERERERERERERERERERERERERERERERERERkYsFOoB8nTpF298AAAAASUVORK5CYII=",
-           "filename": "sample.png"
+           "filename": "hired.png"
      }
      ]
 }</td> 
