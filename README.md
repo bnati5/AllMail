@@ -1,4 +1,4 @@
-# Vanilla Soft
+# Mailing
 
 Task:  
 - Use the latest version of Laravel to send multiple emails asynchronously over API
