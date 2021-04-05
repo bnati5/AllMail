@@ -71,7 +71,7 @@ Overview:
 ### Installation
 
 * git clone
-  [Vanilla Soft](https://github.com/holuwatobeey/VanillaSoft.git)
+  [AllMail](https://github.com/bnati5/AllMail.git)
 * Run `composer install` to install packages .
 * Copy .env.example file, create a .env file if not created and edit database credentials there .
 * Run `php artisan key:generate` to set application key to secure user sessions and other encrypted data .
